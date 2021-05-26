@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43c5eb34-da99-439c-848a-7c1ad68ae8f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-sull" beforeDir="false" afterPath="$PROJECT_DIR$/django-sull" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django-sull/webscrap/bugs_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-sull/webscrap/bugs_music.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
